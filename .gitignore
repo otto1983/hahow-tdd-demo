@@ -1,0 +1,9 @@
+# 用來存放帳號和密碼
+.env
+# 這個目錄是pycharm自動建立的，會存放ptcharm設定檔
+.idea/
+# python產生的快取檔案目錄
+.pytest_cache/
+__pycache__/
+# python內建的虛擬環境，會存放套件的目錄
+.venv
